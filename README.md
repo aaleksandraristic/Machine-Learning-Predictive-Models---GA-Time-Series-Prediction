@@ -37,12 +37,18 @@ ranging from fractions of a second to daily, weekly, or monthly periods, ARIMA l
 extends to applications such as time series forecasting and the prediction of future stock prices, making it a widely employed tool in diverse fields reliant on temporal data
 analysis.
 
+![image](https://github.com/aaleksandraristic/Machine-Learning-Predictive-Models---GA-Time-Series-Prediction/assets/140200824/93aaf874-d3fb-4564-b967-f89b9480eb86)
+
+
 **3. Shapelet Model**
 The Shapelet machine learning model represents a specialized approach for time series classification. It operates in the way of identifying significant sub-patterns, known
 as shapelets, within the time series data. These shapelets serve as markers, allowing for the comparison and classification of various time series based on their similarity to
 these patterns. The model excels in capturing localized patterns within the time series data, making it particularly effective in situations where discriminative features are not
 uniformly distributed across the entire sequence. This capability positions the Shapelet model as a valuable tool for accurate predictions and classification tasks in scenarios
 characterized by uneven feature distribution.
+
+![image](https://github.com/aaleksandraristic/Machine-Learning-Predictive-Models---GA-Time-Series-Prediction/assets/140200824/a3215cba-ca52-4a62-8d70-6bbec2640c05)
+
 
  
 [Final Project - Report CSC 667.pdf](https://github.com/aaleksandraristic/GA-s-Stock-Prediction-/files/13533755/Final.Project.-.Report.CSC.667.pdf)
