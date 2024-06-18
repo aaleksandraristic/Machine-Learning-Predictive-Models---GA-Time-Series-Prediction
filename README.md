@@ -19,7 +19,7 @@ specified time frame.
 - CSCO - GOOGL - INTC - IBM
 - MSFT - NFLX - NVDA - ORCL
 
-  **Methods**
+**Methods**
 **Clustering Model**
 Clustering is the technique of dividing the population or data points into several groups such that data points in the same groups are more similar to other data points in
 the same group and dissimilar to the data points in other groups. It is a collection of objects based on similarity and dissimilarity between them. 
