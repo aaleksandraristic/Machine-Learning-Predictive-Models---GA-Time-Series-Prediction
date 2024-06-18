@@ -1,4 +1,4 @@
-**Machine Learning Predictive Models - GA Time Series Prediction **
+**Machine Learning Predictive Models - GA Time Series Prediction**
 
 
 The goal of this project is to develop an accurate and reliable closing daily stock price prediction using historical stock data, to assist investors, traders, and
