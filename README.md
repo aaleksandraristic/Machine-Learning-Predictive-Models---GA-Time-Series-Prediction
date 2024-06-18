@@ -11,7 +11,7 @@ understanding market trends, assessing long-term performance, and conducting ins
 retrieved from https://finance.yahoo.com/, ensures reliability and accessibility, laying the foundation for comprehensive examinations of stock market dynamics within the
 specified time frame.
 
-● Daily closing stock prices of 12 different tech companies, which are listed below:
+Daily closing stock prices of 12 different tech companies, which are listed below:
 ● A period: 08/20/2004 to 10/25/2023
 ● Historical Data Source: https://finance.yahoo.com/
 
