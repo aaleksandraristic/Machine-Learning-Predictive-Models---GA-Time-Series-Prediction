@@ -1,15 +1,11 @@
 **Machine Learning Predictive Models - GA Time Series Prediction**
 
 
-The goal of this project is to develop an accurate and reliable closing daily stock price prediction using historical stock data, to assist investors, traders, and
+Developing an accurate and reliable **financial prediction model** for the next 5 years using historical data, to assist investors, traders, and
 financial analysts make informed decisions about buying or selling stocks in a dynamic market.
 
 Dataset
-The dataset consisted of historical daily closing stock prices starting from August 20, 2004, to October 25, 2023, including a profile of 12 diverse technology companies.
-These companies, drawn from the dynamic tech sector, showcase the evolution of their stock values over nearly two decades. The dataset serves as a valuable resource for
-understanding market trends, assessing long-term performance, and conducting insightful analyses on the stock behavior of prominent tech entities. The data source,
-retrieved from https://finance.yahoo.com/, ensures reliability and accessibility, laying the foundation for comprehensive examinations of stock market dynamics within the
-specified time frame.
+The dataset consisted of **historical daily closing stock prices** starting from August 20, 2004, to October 25, 2023, including a profile of 12 diverse technology companies.
 
 Daily closing stock prices of 12 different tech companies, which are listed below:
 
