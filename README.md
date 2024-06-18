@@ -16,6 +16,7 @@ Historical Data Source: https://finance.yahoo.com/
 - AAPL - ADBE - AMZN - CRM
 - CSCO - GOOGL - INTC - IBM
 - MSFT - NFLX - NVDA - ORCL
+  
 
 **Methods**
 
