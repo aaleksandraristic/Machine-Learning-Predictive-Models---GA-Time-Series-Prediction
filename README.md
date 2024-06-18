@@ -12,8 +12,8 @@ retrieved from https://finance.yahoo.com/, ensures reliability and accessibility
 specified time frame.
 
 Daily closing stock prices of 12 different tech companies, which are listed below:
-● A period: 08/20/2004 to 10/25/2023
-● Historical Data Source: https://finance.yahoo.com/
+A period: 08/20/2004 to 10/25/2023
+Historical Data Source: https://finance.yahoo.com/
 
 - AAPL - ADBE - AMZN - CRM
 - CSCO - GOOGL - INTC - IBM
