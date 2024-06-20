@@ -7,13 +7,13 @@ financial analysts make informed decisions about buying or selling stocks in a d
 # Dataset
 
 - 20 years old data: historical daily closing stock prices
+- period: 08/20/2004 to 10/25/2023
 - 12 different tech companies:
 
   - AAPL - ADBE - AMZN - CRM
   - CSCO - GOOGL - INTC - IBM
   - MSFT - NFLX - NVDA - ORCL
 
-- period: 08/20/2004 to 10/25/2023
 - resource: https://finance.yahoo.com/
 
 **Methods**
