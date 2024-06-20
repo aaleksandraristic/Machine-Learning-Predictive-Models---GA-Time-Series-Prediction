@@ -16,6 +16,17 @@ financial analysts make informed decisions about buying or selling stocks in a d
 
 - resource: https://finance.yahoo.com/
 
+# Key Contributions:
+- Data Collection, Cleaning & Preprocessing 
+- Data Visualization 
+- Data Splitting 
+- Model Selection 
+- ARIMA Model Development, Fine-Tuning & Evaluation 
+- Comparison to the Shapelet model that a colleague from my team did 
+- Project Management 
+- Fixing Bugs 
+- Project Defense
+
 **Methods**
 
 **1. Clustering Model**
