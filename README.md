@@ -6,7 +6,7 @@ financial analysts make informed decisions about buying or selling stocks in a d
 
 # Dataset
 
-- consisted of historical daily closing stock prices 
+- 20 years old data: historical daily closing stock prices
 - 12 different tech companies, which are listed below:
 
   - AAPL - ADBE - AMZN - CRM
