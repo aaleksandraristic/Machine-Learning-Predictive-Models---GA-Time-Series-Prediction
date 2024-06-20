@@ -27,7 +27,7 @@ financial analysts make informed decisions about buying or selling stocks in a d
 - Fixing Bugs 
 - Project Defense
 
-**Methods**
+# Methods
 
 **1. Clustering Model**
 Clustering is the technique of dividing the population or data points into several groups such that data points in the same groups are more similar to other data points in
