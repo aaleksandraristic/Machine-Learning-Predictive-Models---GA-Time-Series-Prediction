@@ -4,19 +4,17 @@
 Developing an accurate and reliable **financial prediction model** for the next 5 years using historical data, to assist investors, traders, and
 financial analysts make informed decisions about buying or selling stocks in a dynamic market.
 
-Dataset
-The dataset consisted of **historical daily closing stock prices** starting from August 20, 2004, to October 25, 2023, including a profile of 12 diverse technology companies.
+# Dataset
 
-Daily closing stock prices of 12 different tech companies, which are listed below:
+- consisted of historical daily closing stock prices 
+- 12 different tech companies, which are listed below:
 
-A period: 08/20/2004 to 10/25/2023
+  - AAPL - ADBE - AMZN - CRM
+  - CSCO - GOOGL - INTC - IBM
+  - MSFT - NFLX - NVDA - ORCL
 
-Historical Data Source: https://finance.yahoo.com/
-
-- AAPL - ADBE - AMZN - CRM
-- CSCO - GOOGL - INTC - IBM
-- MSFT - NFLX - NVDA - ORCL
-  
+- period: 08/20/2004 to 10/25/2023
+- resource: https://finance.yahoo.com/
 
 **Methods**
 
