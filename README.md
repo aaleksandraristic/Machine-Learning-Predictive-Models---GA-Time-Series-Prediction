@@ -1,4 +1,4 @@
-**Machine Learning Predictive Models - GA Time Series Prediction**
+# Machine Learning Predictive Models - GA Time Series Prediction
 
 
 Developing an accurate and reliable **financial prediction model** for the next 5 years using historical data, to assist investors, traders, and
